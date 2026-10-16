@@ -5,8 +5,10 @@
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
-
-
+https://guovin.github.io/iptv-api/result.m3u
+https://github.com/gn898040/IPTV-CHECK/raw/refs/heads/main/Github_Collected.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3
+https://gist.githubusercontent.com/tony881025/4ed30002f87b9e4231f47a0a6334d110/raw/4ef0d06fdd1f10411b700957aed714ee94318919/gistfile1.txt
 
 
 [KEYWORDS]
