@@ -3,9 +3,9 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://iptv-org.github.io/iptv/countries/tw.m3u
-https://raw.githubusercontent.com/gn898040/IPTV-CHECK/refs/heads/main/Github_Collected.m3u
-
+https://guovin.github.io/iptv-api/result.m3u
+https://github.com/gn898040/IPTV-CHECK/raw/refs/heads/main/Github_Collected.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3
 https://gist.githubusercontent.com/tony881025/4ed30002f87b9e4231f47a0a6334d110/raw/4ef0d06fdd1f10411b700957aed714ee94318919/gistfile1.txt
 
 
